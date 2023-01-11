@@ -1,0 +1,65 @@
+*{
+    margin : auto;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2565AE;
+}
+
+.container{
+    text-align: center;
+}
+
+h1{
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+    font-size: x-large;
+    margin: auto;
+    width: 30%;
+}
+
+.sub-container{
+    display: block;
+    background-color: white;
+    border-radius: 50px;
+    margin-top: 100px;
+    width: 500px;
+    padding: 25px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+input{
+    display: block;
+    margin-top: 40px;
+    width: 40%;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+button{
+    width: 50%;
+    margin-top: 25px;
+    padding: 20px;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+button:hover{
+    background-color: #3C99DC;
+    color: white;
+}
+
+
+p{
+    margin-top: 25px;
+}
+
+
+
+
