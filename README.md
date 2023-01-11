@@ -24,5 +24,5 @@ Ouverture du logiciel
 -Ouvrir "index.html"
 
 ------------------------------------------------------------
-API Utilisé : Open Weather : https://openweathermap.org/
+API Utilisé : Open Weather : https://openweathermap.org/  
 JQUERY : https://jquery.com/download/
